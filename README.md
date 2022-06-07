@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victoresser
 - 👀 I’m interested in learn to code
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on APIs
 - 📫 How to reach me: victorribeiroesser@gmail.com
 
