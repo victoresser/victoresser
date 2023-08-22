@@ -19,5 +19,3 @@
 
 <!-- Stats Card -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=victoresser&show_icons=true&locale=en" alt="victoresser" style="background-color: transparent;" /></p>
-
-
