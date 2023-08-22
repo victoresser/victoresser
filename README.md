@@ -1,4 +1,3 @@
-[![MasterHead](header.png)](https://github.com/victoresser)
 <h1 align="center">Hi 👋, I'm Victor Ribeiro</h1>
 <h3 align="center">Backend Developer</h3>
 
