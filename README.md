@@ -28,8 +28,8 @@
 
 <div align="center" style="display: flex; flex-direction: row;"> 
 <!-- Top Languages Card -->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoresser&show_icons=true&locale=en&layout=compact" alt="victoresser" style="background-color: transparent;" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoresser&show_icons=true&locale=en&layout=compact" alt="victoresser" /></p>
 <!-- Stats Card -->
-<p><img src="https://github-readme-stats.vercel.app/api?username=victoresser&show_icons=true&locale=en" alt="victoresser" style="background-color: transparent;" /></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=victoresser&show_icons=true&locale=en" alt="victoresser" /></p> -->
 </div>
 
