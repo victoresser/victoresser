@@ -26,9 +26,10 @@
 
 
 
-
+<div style="display: flex; justify-content: center;"> 
 <!-- Top Languages Card -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoresser&show_icons=true&locale=en&layout=compact" alt="victoresser" style="background-color: transparent;" /></p>
-
 <!-- Stats Card -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=victoresser&show_icons=true&locale=en" alt="victoresser" style="background-color: transparent;" /></p>
+</div>
+
