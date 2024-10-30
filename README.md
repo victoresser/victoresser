@@ -26,7 +26,7 @@
 
 
 
-<div align="center" display="flex"> 
+<div align="center" style="display: flex; flex-direction: row;"> 
 <!-- Top Languages Card -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoresser&show_icons=true&locale=en&layout=compact" alt="victoresser" style="background-color: transparent;" /></p>
 <!-- Stats Card -->
