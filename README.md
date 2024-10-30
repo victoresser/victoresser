@@ -7,7 +7,7 @@
 
 <p align="left"></p>
 
-<h3 align="Center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -26,7 +26,7 @@
 
 
 
-<div align="center"> 
+<div align="center" display="flex"> 
 <!-- Top Languages Card -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoresser&show_icons=true&locale=en&layout=compact" alt="victoresser" style="background-color: transparent;" /></p>
 <!-- Stats Card -->
